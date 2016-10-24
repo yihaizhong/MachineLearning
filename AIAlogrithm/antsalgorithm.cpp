@@ -121,7 +121,7 @@ void AntsAlgorithm::updateTrial()
 			Ant::setTrial(i, j, tmp);
 		}
 	}
-	Ant::output();
+	//Ant::output();
 	for (int i = 0; i < city_cnt; ++i)
 	{
 		delete []temp[i];
