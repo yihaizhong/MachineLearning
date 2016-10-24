@@ -1,0 +1,27 @@
+﻿生成启动时间为 2016/10/24 12:56:56。
+     1>项目“E:\myc++\myqt\MachineLearning\AIAlogrithm\AIAlogrithm.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\myc++\myqt\MachineLearning\x64\Debug\\AIAlogrithm.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.5.1\5.5\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\myc++\myqt\MachineLearning\x64\Debug\AIAlogrithm.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\myc++\myqt\MachineLearning\x64\Debug\AIAlogrithm.lib" /MACHINE:X64 x64\Debug\acosetting.obj
+         x64\Debug\aialogrithm.obj
+         x64\Debug\algorithmtsp.obj
+         x64\Debug\ant.obj
+         x64\Debug\antsalgorithm.obj
+         x64\Debug\citysetting.obj
+         x64\Debug\config.obj
+         x64\Debug\eachpath.obj
+         x64\Debug\moc_acosetting.obj
+         x64\Debug\moc_aialogrithm.obj
+         x64\Debug\moc_citysetting.obj
+         x64\Debug\moc_eachpath.obj
+         x64\Debug\qrc_aialogrithm.obj
+         x64\Debug\main.obj
+         x64\Debug\cityinfo.obj
+         x64\Debug\methods.obj
+         x64\Debug\t.obj
+         x64\Debug\tsp.obj
+         AIAlogrithm.vcxproj -> E:\myc++\myqt\MachineLearning\x64\Debug\AIAlogrithm.exe
+     1>已完成生成项目“E:\myc++\myqt\MachineLearning\AIAlogrithm\AIAlogrithm.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.70

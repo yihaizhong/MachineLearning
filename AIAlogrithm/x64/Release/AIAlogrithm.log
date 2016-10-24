@@ -1,0 +1,30 @@
+﻿生成启动时间为 2016/10/24 13:25:43。
+     1>项目“E:\myc++\myqt\MachineLearning\AIAlogrithm\AIAlogrithm.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include /I.\GeneratedFiles\Release /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtGui /ID:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtWidgets /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt antsalgorithm.cpp
+         antsalgorithm.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\myc++\myqt\MachineLearning\x64\Release\\AIAlogrithm.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.5.1\5.5\msvc2013_64\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"E:\myc++\myqt\MachineLearning\x64\Release\AIAlogrithm.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\myc++\myqt\MachineLearning\x64\Release\AIAlogrithm.lib" /MACHINE:X64 x64\Release\acosetting.obj
+         x64\Release\aialogrithm.obj
+         x64\Release\algorithmtsp.obj
+         x64\Release\ant.obj
+         x64\Release\antsalgorithm.obj
+         x64\Release\citysetting.obj
+         x64\Release\config.obj
+         x64\Release\eachpath.obj
+         x64\Release\qrc_aialogrithm.obj
+         x64\Release\moc_acosetting.obj
+         x64\Release\moc_aialogrithm.obj
+         x64\Release\moc_citysetting.obj
+         x64\Release\moc_eachpath.obj
+         x64\Release\main.obj
+         x64\Release\cityinfo.obj
+         x64\Release\methods.obj
+         x64\Release\t.obj
+         x64\Release\tsp.obj
+         AIAlogrithm.vcxproj -> E:\myc++\myqt\MachineLearning\x64\Release\AIAlogrithm.exe
+     1>已完成生成项目“E:\myc++\myqt\MachineLearning\AIAlogrithm\AIAlogrithm.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.95

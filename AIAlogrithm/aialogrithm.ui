@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AIAlogrithmClass</class>
+ <widget class="QMainWindow" name="AIAlogrithmClass">
+  <property name="windowModality">
+   <enum>Qt::ApplicationModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1291</width>
+    <height>757</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>AIAlogrithm</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>YTs.ico</normaloff>YTs.ico</iconset>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1291</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuTSP">
+    <property name="title">
+     <string>TSP</string>
+    </property>
+    <addaction name="separator"/>
+    <addaction name="actionCity_Positions_Setting"/>
+    <addaction name="actionAnt_Colony_Optimization"/>
+   </widget>
+   <addaction name="menuTSP"/>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionAS">
+   <property name="text">
+    <string>AS</string>
+   </property>
+  </action>
+  <action name="actionAnt_Colony_Optimization">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Ant Colony Optimization</string>
+   </property>
+  </action>
+  <action name="actionCity_Positions_Setting">
+   <property name="text">
+    <string>City Positions Setting</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="aialogrithm.qrc"/>
+ </resources>
+ <connections/>
+</ui>
